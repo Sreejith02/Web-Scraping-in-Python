@@ -1,1 +1,1 @@
-# LetsUpgrade | Web Scrapping_Essentials.
+# LetsUpgrade | Web Scraping in Python_Essentials.
